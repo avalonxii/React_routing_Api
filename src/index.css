@@ -1,0 +1,36 @@
+.contenedor{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+nav .brand{
+    font-size: 2.6rem;
+}
+
+.addLibro{
+    width: 80%;
+    padding-top: 3rem;
+}
+
+.c-h{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.biblioteca{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card{
+    min-width: 474px;
+    width: 30%;
+}
+
+.cardSpace{
+    display: flex;
+    justify-content: space-between;
+}
